@@ -26,7 +26,7 @@ This is a simple Markdown editor built using react with react-markdown package. 
 1. Enter your Markdown content in the editor section on the left.
 2. Witness the live preview of your Markdown-rendered content on the right.
 
-Feel free to customize and enhance the editor according to your preferences and project requirements.
+Feel free to send a pull request if you happen to find errors.
 
 ## Technologies Used
 
