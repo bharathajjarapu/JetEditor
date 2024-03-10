@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bharathajjarapu/JetEditor/static/css/main.01fc90f2.css",
-    "main.js": "/bharathajjarapu/JetEditor/static/js/main.5563dd69.js",
-    "static/js/453.9a5e05b4.chunk.js": "/bharathajjarapu/JetEditor/static/js/453.9a5e05b4.chunk.js",
-    "index.html": "/bharathajjarapu/JetEditor/index.html",
-    "main.01fc90f2.css.map": "/bharathajjarapu/JetEditor/static/css/main.01fc90f2.css.map",
-    "main.5563dd69.js.map": "/bharathajjarapu/JetEditor/static/js/main.5563dd69.js.map",
-    "453.9a5e05b4.chunk.js.map": "/bharathajjarapu/JetEditor/static/js/453.9a5e05b4.chunk.js.map"
+    "main.css": "/JetEditor/static/css/main.01fc90f2.css",
+    "main.js": "/JetEditor/static/js/main.5de6deaf.js",
+    "static/js/453.9a5e05b4.chunk.js": "/JetEditor/static/js/453.9a5e05b4.chunk.js",
+    "index.html": "/JetEditor/index.html",
+    "main.01fc90f2.css.map": "/JetEditor/static/css/main.01fc90f2.css.map",
+    "main.5de6deaf.js.map": "/JetEditor/static/js/main.5de6deaf.js.map",
+    "453.9a5e05b4.chunk.js.map": "/JetEditor/static/js/453.9a5e05b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01fc90f2.css",
-    "static/js/main.5563dd69.js"
+    "static/js/main.5de6deaf.js"
   ]
 }
