@@ -30,28 +30,28 @@ Feel free to customize and enhance the editor according to your preferences and 
 
 ## Technologies Used
 
-- React
+- react
 - gh-pages
-- React-Scripts
-- React-Markdown
+- react-scripts
+- react-markdown
 
 ## Deployment
 
 1. Add Homepage to `package.json`
 
-'''
+```
 + "homepage": "https://gitname.github.io/react-gh-pages",
-'''
+```
 
-2. change the `package.json` scripts 
-'''
+2. change the `package.json` scripts
+```
 "scripts": {
 +   "predeploy": "npm run build",
 +   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
 At this point, the React app's package.json file includes deployment scripts.
-'''
+```
 
 ## License
 
