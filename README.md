@@ -52,6 +52,10 @@ Feel free to send a pull request if you happen to find errors.
     "build": "react-scripts build",
 At this point, the React app's package.json file includes deployment scripts.
 ```
+3. Deploy
+```
+npm run deploy
+```
 
 ## License
 
