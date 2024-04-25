@@ -28,7 +28,7 @@ This is a simple Markdown editor built using react with react-markdown package. 
 
 Feel free to send a pull request if you happen to find errors.
 
-## Technologies Used
+## Packages Used
 
 - react
 - gh-pages
